@@ -1,4 +1,4 @@
-const sass = require('sass')
+const sass = require('sass') // replaces node-sass with sass
 const extend = require('xtend')
 
 module.exports = sheetifySass
